@@ -8,4 +8,5 @@ The primary goal was to learn how to implement machine learning algorithms from 
 - **SIFT and HOG Feature Extraction**: Utilizing the SIFT and HOG algorithm to extract key features from images.
 - **Chi2 and Gaussian Kernel**: Employing the Gaussian and Chi2 kernel to quantify the dissimilarity between SIFT/HOG features, allowing for effective comparison and classification
 - **One vs All and One vs One approaches** for multi-class classification
-- 
+
+  
